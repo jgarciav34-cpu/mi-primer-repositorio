@@ -1,1 +1,7 @@
+id_venta,producto,cantidad,precio_unitario,total
+1,Laptop,2,700,1400
+2,Mouse,5,10,50
+3,Teclado,3,25,75
+4,Monitor,1,180,180
+5,USB 32GB,4,8,32
 
